@@ -1,1 +1,1 @@
-# Translation images
+# Photos repository
