@@ -1,4 +1,4 @@
-# BANK PICTURES
+# LIBRARY PICTURES
 Explore Doctor Louis's pictures.
 
 ## Copyright
