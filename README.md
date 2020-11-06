@@ -1,5 +1,7 @@
 # LIBRARY PICTURES
-Explore Doctor Louis's pictures.
+Explore pictures of **MedPocket**.
 
-## Copyright
-Copyright (c) Doctor Louis.
+## License
+Copyright &copy; **MedPocket**. All rights reserved.
+
+Licensed under the [MIT](LICENSE) license.
