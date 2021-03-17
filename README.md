@@ -1,5 +1,5 @@
-# LIBRARY PICTURES
-Explore pictures of **MedPocket**.
+# MedPhotos
+**MedPhotos** is the home for all photos and easy to view in **MedPocket**.
 
 ## License
 Copyright &copy; **MedPocket**. All rights reserved.
